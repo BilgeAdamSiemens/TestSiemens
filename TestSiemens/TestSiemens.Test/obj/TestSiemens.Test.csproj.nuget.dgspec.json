@@ -1,0 +1,142 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/bayb/Desktop/work/c#/test/TestSiemens/TestSiemens.Test/TestSiemens.Test.csproj": {}
+  },
+  "projects": {
+    "/Users/bayb/Desktop/work/c#/test/TestSiemens/TestSiemens.Test/TestSiemens.Test.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/bayb/Desktop/work/c#/test/TestSiemens/TestSiemens.Test/TestSiemens.Test.csproj",
+        "projectName": "TestSiemens.Test",
+        "projectPath": "/Users/bayb/Desktop/work/c#/test/TestSiemens/TestSiemens.Test/TestSiemens.Test.csproj",
+        "packagesPath": "/Users/bayb/.nuget/packages/",
+        "outputPath": "/Users/bayb/Desktop/work/c#/test/TestSiemens/TestSiemens.Test/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/bayb/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "/Users/bayb/Desktop/work/c#/test/TestSiemens/TestSiemens/TestSiemens.csproj": {
+                "projectPath": "/Users/bayb/Desktop/work/c#/test/TestSiemens/TestSiemens/TestSiemens.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "MSTest.TestAdapter": {
+              "target": "Package",
+              "version": "[2.1.1, )"
+            },
+            "MSTest.TestFramework": {
+              "target": "Package",
+              "version": "[2.1.1, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.7.1, )"
+            },
+            "NUnit": {
+              "target": "Package",
+              "version": "[3.12.0, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[3.17.0, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[1.3.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.100/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/bayb/Desktop/work/c#/test/TestSiemens/TestSiemens/TestSiemens.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/bayb/Desktop/work/c#/test/TestSiemens/TestSiemens/TestSiemens.csproj",
+        "projectName": "TestSiemens",
+        "projectPath": "/Users/bayb/Desktop/work/c#/test/TestSiemens/TestSiemens/TestSiemens.csproj",
+        "packagesPath": "/Users/bayb/.nuget/packages/",
+        "outputPath": "/Users/bayb/Desktop/work/c#/test/TestSiemens/TestSiemens/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/bayb/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.100/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

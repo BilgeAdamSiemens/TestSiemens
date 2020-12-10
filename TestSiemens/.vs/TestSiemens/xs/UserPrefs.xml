@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{D89B1510-54CB-42D6-8BEC-2A74229CED79}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="TestSiemens/Stack.cs">
+    <Files>
+      <File FileName="TestSiemens/Stack.cs" Line="13" Column="15" />
+      <File FileName="TestSiemens/ErrorLogger.cs" />
+      <File FileName="TestSiemens/Reservations.cs" />
+      <File FileName="TestSiemens.Test/HtmlFormatterTest.cs" />
+      <File FileName="TestSiemens.Test/MathTest.cs" />
+      <File FileName="TestSiemens.Test/ReservationsTest.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TestSiemens" expanded="True">
+            <Node name="TestSiemens" expanded="True" />
+            <Node name="TestSiemens.Test" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.TestSiemens PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

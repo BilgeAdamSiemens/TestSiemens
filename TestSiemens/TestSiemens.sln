@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestSiemens", "TestSiemens\TestSiemens.csproj", "{D89B1510-54CB-42D6-8BEC-2A74229CED79}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestSiemens.Test", "TestSiemens.Test\TestSiemens.Test.csproj", "{153BAFBB-708D-4A2F-BA47-103610A79CA7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D89B1510-54CB-42D6-8BEC-2A74229CED79}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D89B1510-54CB-42D6-8BEC-2A74229CED79}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D89B1510-54CB-42D6-8BEC-2A74229CED79}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D89B1510-54CB-42D6-8BEC-2A74229CED79}.Release|Any CPU.Build.0 = Release|Any CPU
+		{153BAFBB-708D-4A2F-BA47-103610A79CA7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{153BAFBB-708D-4A2F-BA47-103610A79CA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{153BAFBB-708D-4A2F-BA47-103610A79CA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{153BAFBB-708D-4A2F-BA47-103610A79CA7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {42FDA453-806D-4141-AEDB-A0CBCE702212}
+	EndGlobalSection
+EndGlobal
